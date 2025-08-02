@@ -1,0 +1,33 @@
+* {
+    font-family: "Mozilla Headline", sans-serif;
+    text-align: center;
+    color: black;
+}
+
+body {
+    background-color: white;
+}
+
+#socials {
+    display: inline-block;
+}
+
+#inline_socials {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+}
+
+#inline_name {
+    display: inline-block;
+}
+
+footer {
+    color: white;
+    background-color: green;
+}
+
+#pfp {
+    width: 128px;
+    height: 128px;
+}
