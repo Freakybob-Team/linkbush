@@ -22,12 +22,17 @@ body {
     display: inline-block;
 }
 
-footer {
-    color: white;
-    background-color: green;
-}
-
 #pfp {
     width: 128px;
     height: 128px;
+}
+a {
+color: #9ddeff;
+}
+
+footer {
+    color: white;
+    background-color: green;
+padding: 10px;
+border-radius: 8px;
 }
